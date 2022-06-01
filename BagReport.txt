@@ -1,0 +1,13 @@
+Summar
+Project	
+Component	
+Version
+Severity)	
+Priority
+Status
+Author
+Assigned 
+Steps to Reproduce
+Result
+Expected Result
+Attachment
